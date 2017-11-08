@@ -10,3 +10,6 @@ plog研究
 
 金山词霸发音还真的可以
 
+
+plog + getlasterror + 异步日志 + debugview = myLog
+
