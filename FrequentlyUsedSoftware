@@ -1,1 +1,29 @@
 
+### Fport V2.0
+
+识别未知的已打开的端口以及相关的应用程序。
+
+fport支持Windows NT4，Windows 2000和Windows XP
+
+fport报告所有的打开的TCP/IP 和 UDP端口以及将他们映射到自己的应用程序进程中。
+
+这如同你使用`netstat -an`命令所看到的信息，但是fport也罢这些端口号映射到正在运行的进程号，名称和路径上。
+
+fport可以快速地识别未知的打开的端口以及他们的相关的应用程序进程。
+
+用法：
+
+直接运行即可。
+
+参数：
+
+/? 帮助
+
+/p sort by port
+
+/a sort by application
+
+/i sort by pid
+
+/ap sort by application path
+
